@@ -25,8 +25,8 @@ const PersonList = () => {
           <li>CSS Preprocessing</li>
         </ul>
       </Person>
-      <Person img="22" name="John" job="Ceo" />
-      <Person img="5" name="John" job="Designer" />
+      <Person img="22" name="Alex" job="Ceo" />
+      <Person img="14" name="Jacob" job="Designer" />
     </section>
   );
 };
